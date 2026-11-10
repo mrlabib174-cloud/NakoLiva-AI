@@ -1,0 +1,6 @@
+{
+  "name": "NakoLiva AI Workspace",
+  "description": "Next-generation NakoLiva AI chat studio with multi-turn conversations, multimodal vision, real-time web search grounding, thought reasoning trace, and live code preview.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
